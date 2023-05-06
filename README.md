@@ -7,6 +7,6 @@ By default, Win 10 Droid adds a couple of Metro-style buttons on your home scree
 
 Win 10 Droid is a nice home launcher for Android that looks and works great. Other similar apps just look good, but this one is really practical and user-friendly as well.
 
-Requirements (Latest version)
+# Requirements (Latest version)
 
-Android 4.4, 5.0, 8.1.0 or higher required
+## Android 4.4, 5.0, 8.1.0 or higher required
